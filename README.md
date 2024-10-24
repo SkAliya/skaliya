@@ -40,10 +40,14 @@
 </details>
 </div>
 <br>
-<!-- <a href="#"> -->
-<img align="center"  alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaliya&theme=chartreuse-dark&layout=compact&card_width=300&border_color=19f80582&bg_color=15f80009">
-<img align="center"  alt="Aliya's stats" src="https://github-readme-stats.vercel.app/api?username=skaliya&show_icons=true&theme=chartreuse-dark&border_color=19f80582&icon_color=15f800b6&bg_color=15f80009&custom_title=Aliya's_Github_stats&card_width=100)](https://github.com/skaliya/github-readme-stats">
-<img align="center"  alt="Aliya's streak" src="https://streak-stats.demolab.com?user=skaliya&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=460&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=19F805FD&currStreakNum=FDFF35&currStreakLabel=FDFF35)](https://git.io/streak-stats">
-    
+<br>
+
+<img align="right"  alt="Aliya's streak" src="https://streak-stats.demolab.com?user=skaliya&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=460&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=19F805FD&currStreakNum=FDFF35&currStreakLabel=FDFF35"><img align="right"  alt="Aliya's stats" src="https://github-readme-stats.vercel.app/api?username=skaliya&show_icons=true&theme=chartreuse-dark&border_color=19f80582&icon_color=15f800b6&bg_color=15f80009&custom_title=Aliya's_Github_stats&card_width=100">
+<br>
+ 
+<div align="center">
+<img align="bottom"  alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaliya&theme=chartreuse-dark&layout=compact&card_width=300&border_color=19f80582&bg_color=15f80009">
+</div>
+
 
 
