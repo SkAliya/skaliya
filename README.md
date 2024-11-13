@@ -7,8 +7,12 @@
     <img src="https://img.shields.io/badge/Profile-Aliya%20-6100ab.svg?style=for-the-badge" alt="Aliya Profile"> </a>
 </div>
 
-![it's me](./use.gif)
+<!-- ![it's me](./) -->
+<br>
 
+<div align="center">
+    <img src="./github-progile-image1.gif" alt="green background girl gif" width="100%">
+</div>
 <div align="center">
 <h1>🛠️ Languages and Tools</h1>
 <br>
