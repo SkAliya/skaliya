@@ -4,7 +4,9 @@
 
 <div align="center">
 <a href="https://github.com/SkAliya/skaliya">
-    <img src="https://img.shields.io/badge/Profile-Aliya%20-6100ab.svg?style=for-the-badge" alt="Aliya Profile"> </a>
+    <img src="https://img.shields.io/badge/Profile-Aliya%20-6100ab.svg?style=for-the-badge" alt="Aliya Profile"> </a> 
+<!--     <img src="https://img.shields.io/badge/Profile-Aliya%20-19F805F7.svg?style=for-the-badge" alt="Aliya Profile"> </a>  -->
+<!--     <img src="https://komarev.com/ghpvc/?username=skaliya&color=red"/> -->
 </div>
 
 <!-- ![it's me](./) -->
@@ -48,7 +50,10 @@
 <div align="center">
 <!--  <h1>Streak's 🔥</h1>
  <br> -->
+<!--     [![GitHub Streak] (https://streak-stats.demolab.com?user=skaliya&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&mode=weekly&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=FDFF35FD&currStreakNum=FDFF35&currStreakLabel=FDFF35&dates=19F805F7)(https://git.io/streak-stats)] -->
+
 <img alt="Aliya's streak" src="https://streak-stats.demolab.com?user=skaliya&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=460&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=19F805FD&currStreakNum=FDFF35&currStreakLabel=FDFF35&mode=weekly">
+
 </div>
 <br>
 <div align="center">
