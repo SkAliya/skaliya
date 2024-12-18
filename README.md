@@ -73,6 +73,7 @@
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaliya&theme=chartreuse-dark&layout=compact&card_width=300&border_color=19f80582&bg_color=15f80009">
 </div>
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
 
