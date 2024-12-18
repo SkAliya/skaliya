@@ -3,13 +3,18 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=25&pause=1000&color=19F805F7&center=true&vCenter=true&width=446&lines=Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9)](https://git.io/typing-svg) -->
 <!--     <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" left="20px"> -->
     
-<img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=28&pause=1000&color=19F805F7&center=true&vCenter=true&width=446&lines=+Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9" alt="welcome mssg"/><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=45&pause=1000&color=19F805F7&center=true&vCenter=true&width=900&lines=+Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9" alt="welcome mssg"/><!--<br>-->
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> -->
+<!--Line -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <div align="center">
 <a href="https://github.com/SkAliya/skaliya">
-    <img src="https://img.shields.io/badge/Profile-Aliya%20-6100ab.svg?style=for-the-badge" alt="Aliya Profile"> </a> 
+    <img src="https://img.shields.io/badge/Profile-Aliya%20-19f80582.svg?style=for-the-badge" alt="Aliya Profile"> 
+</a> 
+      <span><img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70" alt="jumping.gift"></span>
+ 
 <!--     <img src="https://img.shields.io/badge/Profile-Aliya%20-19F805F7.svg?style=for-the-badge" alt="Aliya Profile"> </a>  -->
 <!--     <img src="https://komarev.com/ghpvc/?username=skaliya&color=red"/> -->
 </div>
