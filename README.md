@@ -78,6 +78,25 @@
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaliya&theme=chartreuse-dark&layout=compact&card_width=300&border_color=19f80582&bg_color=15f80009">
 </div>
 
+
+<div align="center">
+<!-- &emsp; -->
+<h2>📧 Contact with me</h2>
+<a href="mailto:skaliya205@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+&emsp;
+<a href="https://github.com/SkAliya"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+&emsp;
+<a href="https://www.linkedin.com/in/sk-aliya-865a101a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<!-- &emsp; -->
+<!-- <a href="https://wa.me/0201004167358"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a> -->
+<!-- &emsp; -->
+<!-- <a href="https://www.facebook.com/ashraf.emad.927/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a> -->
+<!-- &emsp; -->
+<!-- <a href="https://www.instagram.com/ashraf_alagmawy/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a> -->
+<!-- &emsp; -->
+<!-- <a href="https://twitter.com/AshrafAlagmawy"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a> -->
+</div>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"  width="100%" height="70px">
     
