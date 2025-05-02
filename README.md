@@ -1,11 +1,6 @@
 <div align="center">
-<!--     <h1>Hey there!! Welcome ✨😊</h1> -->
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=25&pause=1000&color=19F805F7&center=true&vCenter=true&width=446&lines=Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9)](https://git.io/typing-svg) -->
-<!--     <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" left="20px"> -->
     
-<img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=42&pause=1000&color=19F805F7&center=true&vCenter=true&width=900&lines=+Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9" alt="welcome mssg"/><!--<br>-->
-<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> -->
-<!--Line -->
+<img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=42&pause=1000&color=19F805F7&center=true&vCenter=true&width=900&lines=+Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9" alt="welcome mssg"/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
@@ -14,17 +9,57 @@
     <img src="https://img.shields.io/badge/Profile-Aliya%20-19f80582.svg?style=for-the-badge" alt="Aliya Profile"> 
 </a> 
       <span><img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70" alt="jumping.gift"></span>
- 
-<!--     <img src="https://img.shields.io/badge/Profile-Aliya%20-19F805F7.svg?style=for-the-badge" alt="Aliya Profile"> </a>  -->
-<!--     <img src="https://komarev.com/ghpvc/?username=skaliya&color=red"/> -->
+<!--      PROFILE VIEWS <img src="https://komarev.com/ghpvc/?username=skaliya&color=brightgreen"> -->
 </div>
 
-<!-- ![it's me](./) -->
 <br>
 
 <div align="center">
     <img src="./github-progile-image3.gif" alt="green background girl gif" width="100%">
 </div>
+
+<h1 align="center">📖 About Me</h1>
+
+- 🎓 Graduated from Prakasam Engineering College of Computer Science Engineering
+
+- 🤩 I'm passionate about `Front-end`, `Back-end`, `Problem Solving`
+  
+- 🚀 I'm currently focused on improving my ability to provide high quality web applicatins and learning PYTHON
+  
+- ☘ Ask me about anything, i will be happy to help
+  
+- 💬 Favourite Quotes:
+  > "Don't wait to have the skills — start the project, and the project will teach you"
+  
+  > "Don't wait for confidence — start doing it, and confidence will follow"
+  
+  > "Have patience. All things are difficult before they became easy"
+  
+  > "Difficult roads lead to beautiful destinations"
+  
+<br>
+
+<div align="center">
+<!-- &emsp; -->
+<h1>📧 Contact with me</h1>
+<a href="mailto:skaliya205@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+&emsp;
+<a href="https://github.com/SkAliya"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+&emsp;
+<a href="https://www.linkedin.com/in/sk-aliya-865a101a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<!-- &emsp; -->
+<!-- <a href="https://wa.me/0201004167358"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a> -->
+<!-- &emsp; -->
+<!-- <a href="https://www.facebook.com/ashraf.emad.927/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a> -->
+<!-- &emsp; -->
+<!-- <a href="https://www.instagram.com/ashraf_alagmawy/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a> -->
+<!-- &emsp; -->
+<!-- <a href="https://twitter.com/AshrafAlagmawy"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a> -->
+</div>
+
+<br>
+<br>
+
 <div align="center">
 <h1>🛠️ Languages and Tools</h1>
 <br>
@@ -78,24 +113,6 @@
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaliya&theme=chartreuse-dark&layout=compact&card_width=300&border_color=19f80582&bg_color=15f80009">
 </div>
 
-
-<div align="center">
-<!-- &emsp; -->
-<h2>📧 Contact with me</h2>
-<a href="mailto:skaliya205@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-&emsp;
-<a href="https://github.com/SkAliya"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-&emsp;
-<a href="https://www.linkedin.com/in/sk-aliya-865a101a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<!-- &emsp; -->
-<!-- <a href="https://wa.me/0201004167358"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a> -->
-<!-- &emsp; -->
-<!-- <a href="https://www.facebook.com/ashraf.emad.927/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a> -->
-<!-- &emsp; -->
-<!-- <a href="https://www.instagram.com/ashraf_alagmawy/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a> -->
-<!-- &emsp; -->
-<!-- <a href="https://twitter.com/AshrafAlagmawy"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a> -->
-</div>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"  width="100%" height="70px">
