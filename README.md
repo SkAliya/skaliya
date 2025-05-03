@@ -14,21 +14,28 @@
 
 <br>
 
-<div align="center">
-    <img src="./github-progile-image3.gif" alt="green background girl gif" width="100%">
-</div>
+<!-- <div align="center">
+<!--     <img src="./github-progile-image3.gif" alt="green background girl gif" width="100%"> 
+ </div> -->
 
-<h1 align="center">📖 About Me</h1>
 
-- 🎓 Graduated from Prakasam Engineering College of Computer Science Engineering
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="55" /> About Me</h1>
+<br /> 
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
-- 🤩 I'm passionate about `Front-end`, `Back-end`, `Problem Solving`
+<br />
+
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="30" height="30" /> Graduated from Prakasam Engineering College of Computer Science Engineering
+
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Hearts.webp" alt="Smiling Face With Hearts" width="30" height="30" /> I'm passionate about `Front-end`, `Back-end`, `Problem Solving`
   
-- 🚀 I'm currently focused on improving my ability to provide high quality web applicatins and learning PYTHON
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="30" height="30" /> I'm currently focused on improving my ability to provide high quality web applicatins and learning PYTHON
   
-- ☘ Ask me about anything, i will be happy to help
-  
-- 💬 Favourite Quotes:
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Octopus.webp" alt="Octopus" width="30" height="30" /> Ask me about anything, i will be happy to help
+
+ <br />
+ 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="30" height="30" /> Favourite Quotes:
   > "Don't wait to have the skills — start the project, and the project will teach you"
   
   > "Don't wait for confidence — start doing it, and confidence will follow"
@@ -41,7 +48,8 @@
 
 <div align="center">
 <!-- &emsp; -->
-<h1>📧 Contact with me</h1>
+<h1> 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="55" /> Contact with me</h1>
 <a href="mailto:skaliya205@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 &emsp;
 <a href="https://github.com/SkAliya"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -61,7 +69,7 @@
 <br>
 
 <div align="center">
-<h1>🛠️ Languages and Tools</h1>
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="55" /> Languages and Tools</h1>
 <br>
 <details open>
     <summary><h2>🖼️ Frontend</h2></summary>
