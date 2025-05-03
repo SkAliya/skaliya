@@ -21,7 +21,7 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="55" /> About Me</h1>
 <br /> 
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
+<img align="right" width="50%" height="80%" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
 <br />
 
@@ -50,11 +50,15 @@
 <!-- &emsp; -->
 <h1> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="55" /> Contact with me</h1>
-<a href="mailto:skaliya205@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<!-- <a href="mailto:skaliya205@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 &emsp;
 <a href="https://github.com/SkAliya"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-&emsp;
-<a href="https://www.linkedin.com/in/sk-aliya-865a101a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&emsp; -->
+<a href="mailto:skaliya205@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
+<a href="https://github.com/SkAliya"><img src="https://skillicons.dev/icons?i=github"  alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/sk-aliya-865a101a9/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+<!--     render,eslint,expressjs,git,github,gmail,stripe,supabase,typescript,jest,vercel,visualstudiocode,json,jwt,linkedin,windows,python,postman,chrome,babel,npm,nodejs,nextjs,mongodb)
+    ![Skills](https://skills.syvixor.com/api/icons?i=supabase,mongodb,postman) -->
 <!-- &emsp; -->
 <!-- <a href="https://wa.me/0201004167358"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a> -->
 <!-- &emsp; -->
@@ -73,29 +77,35 @@
 <br>
 <details open>
     <summary><h2>🖼️ Frontend</h2></summary>
-    <img alt="html logo" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<!--     <img alt="html logo" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="html logo" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="html logo" src="https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white">
+    <img alt="html logo" src="https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"> -->
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react" alt="frontend-skills"/>
+    <img src="https://skills.syvixor.com/api/icons?i=reactquery,reactrouter,redux,nextjs" alt="frontend-skills"/>
 </details>
     
 <details open>
     <summary><h2>🧰 Backend</h2></summary>
-    <img alt="html logo" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+<!--     <img alt="html logo" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"> -->
+    <img src="https://skillicons.dev/icons?i=python,ts,nodejs,pug,express" alt="backend-skills"/>
 </details>
 
 <details open>
     <summary><h2>🗄️ Database</h2></summary>
-    <img alt="html logo" src="https://img.shields.io/badge/SQL SERVER-a01f1f.svg?style=for-the-badge&logo=sql">
-    <img alt="html logo" src="https://img.shields.io/badge/MYSQL-black.svg?style=for-the-badge&logo=mysql&logoColor=blue">
+<!--     <img alt="html logo" src="https://img.shields.io/badge/SQL SERVER-a01f1f.svg?style=for-the-badge&logo=sql">
+    <img alt="html logo" src="https://img.shields.io/badge/MYSQL-black.svg?style=for-the-badge&logo=mysql&logoColor=blue"> -->
+    <img src="https://skillicons.dev/icons?i=supabase,mongodb,postman" alt="database" />
 </details>
 
 <details open>
     <summary><h2>💻 Software and Tools</h2></summary>
-    <img alt="html logo" src="https://img.shields.io/badge/GIT-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+<!--     <img alt="html logo" src="https://img.shields.io/badge/GIT-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
     <img alt="html logo" src="https://img.shields.io/badge/GITHUB-181717.svg?style=for-the-badge&logo=github&logoColor=white">
     <img alt="html logo" src="https://img.shields.io/badge/GITKRAKEN-179287.svg?style=for-the-badge&logo=github&logoColor=white">
     <img alt="html logo" src="https://img.shields.io/badge/WINDOWS-1572B6.svg?style=for-the-badge&logo=windows">
-    <img alt="html logo" src="https://img.shields.io/badge/VSCODE-black.svg?style=for-the-badge&logo=vscode">
+    <img alt="html logo" src="https://img.shields.io/badge/VSCODE-black.svg?style=for-the-badge&logo=vscode"> -->
+     <img src="https://skillicons.dev/icons?i=git,github,jest,vite,vercel,babel,webpack,windows,vscode" alt="tools"/>
+     <img src="https://skills.syvixor.com/api/icons?i=chrome,json,jwt,npm,eslint,render,stripe" alt="tools"/>
 </details>
 </div>
 <br>
